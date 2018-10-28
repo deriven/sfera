@@ -1,0 +1,5 @@
+Authors:
+
+David "Dade" Bucciarelli <davibu.at.interfree.it>
+
+Sfera includes many classes from LuxRender and LuxRays (http://www.luxrender.net)
